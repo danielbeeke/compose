@@ -20,6 +20,9 @@ Use Compose to make a composition of classes. Construct them with an object keye
 ## Testing
 
 ```
-deno run Compose.test.ts
+deno run test/Compose.test.ts
 ```
 
+## Building for other platforms
+
+./build.sh
