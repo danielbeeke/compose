@@ -24,5 +24,5 @@ deno run test/Compose.test.ts
 ```
 
 ## Building for other platforms
-
+npm install -g typescript
 ./build.sh
